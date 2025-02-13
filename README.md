@@ -1,4 +1,4 @@
-# Telespeto
+# Tele Espeto
 ## Introducción
 Este repositorio tiene como objetivo explicar la creación de mi pagina web llamada "Tele Espeto" mediante el software "Wordpress". Se detallará la plantilla, los plugins, los usuarios y las categorias. La idea de mi pagina es una empresa dedicada a la gastronomia de mariscos.
 ## Plantilla
