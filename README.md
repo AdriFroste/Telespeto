@@ -12,7 +12,7 @@ OSM: Agrega un mapa donde añadir la ubicación que tu quieras, en mi caso yo us
 
 Classic Editor: Es un pluggin que facilita activar otros plugins dentro de la pagina, lo use unicamente para el "Polylan" y el "OSM" solo lo usé para facilitar el utilizar esos dos plugins porque en lo que respecta a edición de post y paginas en general deja bastante que desear pues me afectó bastante al rendimiento.
 
-Polylang: Es el plugin que permite traducir  tus posts y paginas, es mas facil de usar si tienes el "Classic Editor" pero aun asi me sigue pareciendo dificil de usar, he traducido varios posts y paginas que a ñla hora de subir siguen dandome problemas, pero las traducciones por lo menos las tengo desde el apartado de paginas.
+Polylang: Es el plugin que permite traducir  tus posts y paginas, es mas facil de usar si tienes el "Classic Editor" pero aun asi me sigue pareciendo dificil de usar, he traducido varios posts y paginas que a la hora de subir siguen dandome problemas, pero las traducciones por lo menos las tengo desde el apartado de paginas.
 
 ## Usuarios
 He añadido 4 usuarios contando conmigo, he añadido 2 contribuidores y 2 colaboladores
