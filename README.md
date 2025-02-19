@@ -17,10 +17,10 @@ Polylang: Es el plugin que permite traducir  tus posts y paginas, es mas facil d
 ## Usuarios
 He añadido 4 usuarios contando conmigo, he añadido 2 contribuidores y 2 colaboladores
 ## Posts y categorias
-He añadido 4 posts de dos categorias diferentes, la primera categoria la hice con el nombre de "Noticias" que trataria de todas las noticias relacionadas con la empresa, la segunda la hice con el nombre de "Promociones" que incluye todas las promociones, desde anuncios a sorteos, 2 posts son de la categoria "Noticias" y los otros dos de la categoria "Promociones", los 4 posts contienen titular, portada e imagenes.
+He añadido 6 posts de dos categorias diferentes, la primera categoria la hice con el nombre de "Noticias" que trataria de todas las noticias relacionadas con la empresa, la segunda la hice con el nombre de "Promociones" que incluye todas las promociones, desde anuncios a sorteos, 3 posts son de la categoria "Noticias" y los otros 3 de la categoria "Promociones", los 4 posts contienen titular, portada e imagenes.
 
 ## Paginas
-Aparte de la pagina principal donde estan los posts he creado 4 paginas más
+Aparte de la pagina principal donde estan los posts he creado 5 paginas más
 La primera pagina que hice trata de la historia de la empresa y sus empleados y socios mas importantes
 
 La segunda pagina es el catalogo de los alimentos.
@@ -28,5 +28,9 @@ La segunda pagina es el catalogo de los alimentos.
 La tercera pagina es la pagina en la que añadí la ubicación con el plugin "OMS"
 
 La cuarta pagina es la pagina en la que añadí el formulario para contactar con la empresa de mi pagina.
+
+La quinta es la pagina dedicada al merchandaising, donde se pueden comprar articulos de la empresa.
+
+Por ultimo una sexta que es la politica de privacidad.
 
 
