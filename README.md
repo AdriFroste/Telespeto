@@ -2,7 +2,7 @@
 ## Introducción
 Este repositorio tiene como objetivo explicar la creación de mi pagina web llamada "Tele Espeto" mediante el software "Wordpress". Se detallará la plantilla, los plugins, los usuarios y las categorias. La idea de mi pagina es una empresa dedicada a la gastronomia de mariscos.
 ## Plantilla
-De plantilla o "theme" he elegido "Blog Rich Lite" creada por "Noor Alam" porque en mi opinión es la plantilla mas práctica y sencilla. Con esta plantilla añadí toda la inerfaz de la pagina, imagen de encabezado, logo, titulo, fondo y fuente de texto.
+De plantilla o "theme" he elegido "Blog Rich Lite" creada por "Noor Alam" porque en mi opinión es la plantilla mas práctica y sencilla. Con esta plantilla añadí toda la inerfaz de la pagina, imagen de encabezado, logo, titulo, fondo y los widgets, que en mi caso añadí los de comentarios recientes y los del calendario.
 ## Plugins
 Los plugins que he decidido añadir a mi localhost són:
 
